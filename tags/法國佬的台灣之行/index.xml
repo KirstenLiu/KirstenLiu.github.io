@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content on Kiki knows</title>
-    <link>https://kirstenliu.github.io/</link>
-    <description>Recent content in Content on Kiki knows</description>
+    <title>法國佬的台灣之行 on Kiki knows</title>
+    <link>https://kirstenliu.github.io/tags/%E6%B3%95%E5%9C%8B%E4%BD%AC%E7%9A%84%E5%8F%B0%E7%81%A3%E4%B9%8B%E8%A1%8C/</link>
+    <description>Recent content in 法國佬的台灣之行 on Kiki knows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jul 2020 23:11:57 -0700</lastBuildDate>
     
-	<atom:link href="https://kirstenliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kirstenliu.github.io/tags/%E6%B3%95%E5%9C%8B%E4%BD%AC%E7%9A%84%E5%8F%B0%E7%81%A3%E4%B9%8B%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,25 +29,6 @@
 得到我媽塞給他的茶葉兩罐。 因為是軍事迷，在機場買了軍事家出版的全球防衛雜誌（還剛好是426期？），看戰機的圖片也開心（然後一直狂傳幻象2000（已停產但仍然是他最愛的戰鬥機沒有之一）和F14的圖片和youtube給我我很想mute他）。
 最想買但是帶不走的東西是gogoro。 在路上看到gogoro都會衝去照相，一路上哼歌都在唱gogoro和taipei one o one （自帶背景音樂，變成動畫人物了&amp;hellip;）
 #你所不知道的法國佬二三事</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kirstenliu.github.io/about/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kirstenliu.github.io/about/</guid>
-      <description>The best girl you ever laid eyes on. (words from the special french guy sasa)</description>
-    </item>
-    
-    <item>
-      <title>Cayman Typography</title>
-      <link>https://kirstenliu.github.io/cayman-typography/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kirstenliu.github.io/cayman-typography/</guid>
-      <description>Text Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
-Paragraph There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.There should be whitespace between paragraphs. There should be whitespace between paragraphs.</description>
     </item>
     
   </channel>
